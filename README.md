@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/blog-000407?style=for-the-badge&logo=gmail&logoColor=white)](https://sinharavi.blogspot.com/)
 ## Feedback
 
-If you have any feedback, please reach out to us at `aloksinha422@gmail.com`
+If you have any feedback, please reach out to me at `aloksinha2925@gmail.com`
 
 
