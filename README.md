@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/linkedin-000407?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinhalok/)  
 
-[![](https://img.shields.io/badge/facebook-000407?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/siinhalok/)
+[![](https://img.shields.io/badge/facebook-000407?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/siinhalok/](https://www.facebook.com/profile.php?id=100086411650128)
 
 [![](https://img.shields.io/badge/instagram-000407?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sinhalok/)
 
